@@ -103,8 +103,3 @@ I enjoy building interactive systems, performance-oriented applications, and AI-
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=semihcakir18&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
