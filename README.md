@@ -2,28 +2,9 @@
   <img height="150" src="https://semikko.com/ben2.png"  />
 </div>
 
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/semih-%C3%A7ak%C4%B1r" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:semihcakir04@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=semihcakir18.semihcakir18&"  />
-</div>
-
-###
-
-<h1 align="center">heyy</h1>
-
-###
 
 <h3 align="left">About Me</h3>
 
@@ -99,7 +80,5 @@ I enjoy building interactive systems, performance-oriented applications, and AI-
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
 
-###
 
