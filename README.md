@@ -26,30 +26,30 @@ I enjoy building interactive systems, performance-oriented applications, and AI-
 <h4 align="left">Private</h4>
 
 <p align="left">
-<strong>Pose (Coming Soon):</strong> A React Native-based social media platform focused on teaching posing techniques.<br>
-<strong>Cs2nades.me:</strong> A CS:GO forum dedicated to grenade lineups and tactical sharing.<br>
-<strong>WeddingShare:</strong> An event-based media collection platform allowing guests to upload photos and videos.<br>
+<strong>Pose (Coming Soon)</a>:</strong> A React Native-based social media platform focused on teaching posing techniques.<br>
+<strong><a href="https://cs2nades.me/">Cs2nades.me</a>:</strong> A CS:GO forum dedicated to grenade lineups and tactical sharing.<br>
+<strong><a href="https://v0-wedding-media-platform.vercel.app/">WeddingShare</a>:</strong> An event-based media collection platform allowing guests to upload photos and videos.<br>
 <strong>Locpik:</strong> A location-based social media platform.
 </p>
 
 <h4 align="left">Public</h4>
 
 <p align="left">
-<strong>WebAmI:</strong> A VR-like interactive world built in JavaScript using MediaPipe with client-side AI processing.<br>
-<strong>Minesweeper:</strong> Classic Minesweeper game implemented with JavaScript.<br>
-<strong>Seesaw:</strong> A physics-based browser game built with JavaScript.<br>
-<strong>Chatbot Interface:</strong> A clean, minimal, and reusable chatbot UI design.<br>
-<strong>Movies:</strong> A Netflix-inspired movie browsing interface.<br>
-<strong>WeatherApp:</strong> A simple and intuitive weather application.
+<strong><a href="https://github.com/semihcakir18/WebAmI">WebAmI</a>:</strong> A VR-like interactive world built in JavaScript using MediaPipe with client-side AI processing.<br>
+<strong><a href="https://github.com/semihcakir18/Minesweeper">Minesweeper</a>:</strong> Classic Minesweeper game implemented with JavaScript.<br>
+<strong><a href="https://github.com/semihcakir18/semih-cakir-seesaw">Seesaw</a>:</strong> A physics-based browser game built with JavaScript.<br>
+<strong><a href="https://github.com/semihcakir18/BasicChatbot">Chatbot Interface</a>:</strong> A clean, minimal, and reusable chatbot UI design.<br>
+<strong><a href="https://github.com/semihcakir18/React-Movie-App">Movies</a>:</strong> A Netflix-inspired movie browsing interface.<br>
+<strong><a href="https://github.com/semihcakir18/React-Weather-App">WeatherApp</a>:</strong> A simple and intuitive weather application.
 </p>
 
 <h4 align="left">Machine Learning</h4>
 
 <p align="left">
-<strong>Neural-Network-From-Scratch:</strong> A fully custom Artificial Neural Network implementation in Python supporting forward and backward propagation without external ML libraries.<br>
-<strong>Sentiment Analyzer:</strong> A sentiment analysis system built on top of my custom neural network implementation.<br>
-<strong>MoRe:</strong> A hybrid recommendation system combining content-based and personalized filtering for tailored movie suggestions.<br>
-<strong>R2TD:</strong> A real-time traffic analysis system using YOLOv8 and OpenCV for vehicle detection, tracking, and lane-crossing monitoring.
+<strong><a href="https://github.com/semihcakir18/Neural-Network-From-Scratch">Neural-Network-From-Scratch</a>:</strong> A fully custom Artificial Neural Network implementation in Python supporting forward and backward propagation without external ML libraries.<br>
+<strong><a href="https://github.com/semihcakir18/Sentiment-Analyzer">Sentiment Analyzer</a>:</strong> A sentiment analysis system built on top of my custom neural network implementation.<br>
+<strong><a href="https://github.com/semihcakir18/Movie-Recommendation">MoRe</a>:</strong> A hybrid recommendation system combining content-based and personalized filtering for tailored movie suggestions.<br>
+<strong><a href="https://github.com/semihcakir18/Real-Time-Traffic-Detection">R2TD</a>:</strong> A real-time traffic analysis system using YOLOv8 and OpenCV for vehicle detection, tracking, and lane-crossing monitoring.
 </p>
 
 ###
