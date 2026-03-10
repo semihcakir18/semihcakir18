@@ -21,7 +21,7 @@ I enjoy building interactive systems, performance-oriented applications, and AI-
 <strong>Expert Dashboard:</strong> A management dashboard for mental health professionals to manage reservations and client interactions.
 </p>
 
-<h4 align="left">Frontend Projects</h4>
+<h4 align="left">JavaScript - Frontend Projects</h4>
 
 <h4 align="left">Private</h4>
 
@@ -44,7 +44,7 @@ I enjoy building interactive systems, performance-oriented applications, and AI-
 <strong><a href="https://github.com/semihcakir18/React-Weather-App">WeatherApp</a>:</strong> A simple and intuitive weather application.
 </p>
 
-<h4 align="left">Machine Learning</h4>
+<h4 align="left">Machine Learning - Python Projects</h4>
 
 <p align="left">
 <strong><a href="https://github.com/semihcakir18/Neural-Network-From-Scratch">Neural-Network-From-Scratch</a>:</strong> A fully custom Artificial Neural Network implementation in Python supporting forward and backward propagation without external ML libraries.<br>
