@@ -36,6 +36,7 @@ I enjoy building interactive systems, performance-oriented applications, and AI-
 
 <p align="left">
 <strong><a href="https://github.com/semihcakir18/WebAmI">WebAmI</a>:</strong> A VR-like interactive world built in JavaScript using MediaPipe with client-side AI processing.<br>
+<strong><a href="https://github.com/semihcakir18/deva">deva</a>:</strong>DevAlibi - A global CLI tool to quickly launch and manage your local development projects with a single command.<br>
 <strong><a href="https://github.com/semihcakir18/Minesweeper">Minesweeper</a>:</strong> Classic Minesweeper game implemented with JavaScript.<br>
 <strong><a href="https://github.com/semihcakir18/semih-cakir-seesaw">Seesaw</a>:</strong> A physics-based browser game built with JavaScript.<br>
 <strong><a href="https://github.com/semihcakir18/BasicChatbot">Chatbot Interface</a>:</strong> A clean, minimal, and reusable chatbot UI design.<br>
