@@ -36,6 +36,7 @@ I enjoy building interactive systems, performance-oriented applications, and AI-
 
 <p align="left">
 <strong><a href="https://github.com/semihcakir18/WebAmI">WebAmI</a>:</strong> A VR-like interactive world built in JavaScript using MediaPipe with client-side AI processing.<br>
+<strong><a href="https://github.com/semihcakir18/document-workspace">document-workspace</a>:</strong>A browser-based document workspace for uploading, organizing, and querying PDF documents using AI. Built with React and TypeScript.<br>
 <strong><a href="https://github.com/semihcakir18/Just-Note">Just Note</a>:</strong> A simple Chrome extension that lets you take notes per URL. Each page gets its own notes.<br>
 <strong><a href="https://github.com/semihcakir18/deva">deva</a>:</strong>DevAlibi - A global CLI tool to quickly launch and manage your local development projects with a single command.<br>
 <strong><a href="https://github.com/semihcakir18/Minesweeper">Minesweeper</a>:</strong> Classic Minesweeper game implemented with JavaScript.<br>
