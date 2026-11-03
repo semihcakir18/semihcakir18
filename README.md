@@ -46,6 +46,11 @@ I enjoy building interactive systems, performance-oriented applications, and AI-
 <strong><a href="https://github.com/semihcakir18/React-Weather-App">WeatherApp</a>:</strong> A simple and intuitive weather application.
 </p>
 
+<h4 align="left">Desktop Utilities - C# / .NET</h4>
+
+<p align="left">
+<strong><a href="https://github.com/semihcakir18/Win11TaskbarToggle">Win11 Taskbar Toggle</a>:</strong> A Windows 11 tray utility that toggles the taskbar with Ctrl+Alt+T, reclaims space for maximized apps, and protects desktop icon positions.
+</p>
 <h4 align="left">Machine Learning - Python Projects</h4>
 
 <p align="left">
